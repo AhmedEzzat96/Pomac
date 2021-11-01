@@ -1,0 +1,6 @@
+framework module Pods_Pomac {
+  umbrella header "Pods-Pomac-umbrella.h"
+
+  export *
+  module * { export * }
+}
